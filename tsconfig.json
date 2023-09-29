@@ -1,7 +1,8 @@
 {
   "compilerOptions": {
+      "allowJs": false,
         "experimentalDecorators": true,
-        "target": "es2017",
+        "target": "es2016",
         "module": "commonjs",
         "lib": ["es2017", "es7", "es6"],
         "declaration": true,
@@ -13,12 +14,12 @@
         "noImplicitAny": false,
         "strictNullChecks": false,
         "allowSyntheticDefaultImports": true,
-        "esModuleInterop": true,
-        "emitDecoratorMetadata": true
+        "esModuleInterop": false,
+        "emitDecoratorMetadata": true,
     },
     "exclude": [
             "node_modules",
             "dist"
-        ]
+    ]
 }
 

@@ -1,6 +1,6 @@
 {
   "name": "nest-iyzipay",
-  "version": "0.0.9",
+  "version": "2.1.0",
   "description": "Nestjs iyzipay module - Community package not belongs to iyzipay",
   "author": "akifcan kara",
   "private": true,
