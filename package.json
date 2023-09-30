@@ -3,7 +3,7 @@
   "version": "2.2.0",
   "description": "Nestjs iyzipay module - Community package not belongs to iyzipay",
   "author": "akifcan kara",
-  "private": true,
+  "private": false,
   "license": "UNLICENSED",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
